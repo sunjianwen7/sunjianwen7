@@ -8,5 +8,5 @@
 - 🤔 I’m looking for help with  Theoretical knowledge and master's degree
 - 💬 Ask me about ...
 - 📫 How to reach me: Leave a message in the project or send me an email ：sunjianwen.d@gmail.com I will try my best to reply
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjianwen7&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjianwen7)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunjianwen7)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunjianwen7)](https://github.com/anuraghazra/github-readme-stats)
